@@ -1,0 +1,29 @@
+{
+  "name": "comp229.005web.app",
+  "version": "1.0.0",
+  "description": "COMP229 Code Examples",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhamid4/COMP229.005Web.App.git"
+  },
+  "keywords": [
+    "COMP229.005",
+    "mean",
+    "Express",
+    "EJS",
+    "NodeJS"
+  ],
+  "author": "Bilal Hamid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bhamid4/COMP229.005Web.App/issues"
+  },
+  "homepage": "https://github.com/Bhamid4/COMP229.005Web.App#readme",
+  "dependencies": {
+    "save": "^2.9.0"
+  }
+}
